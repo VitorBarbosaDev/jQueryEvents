@@ -1,0 +1,27 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+A
+Cards-jquery.html,b\5\b5df2b4c40ac30c88dc6b490caf3e303402a23ac
+9
+	script.js,3\1\313d6864fa48b411d082f7692efd0c0892788fc4
+9
+	style.css,4\6\46e3381e9569c09e85a30b9e5a2af7525ee9fd78
+ž
+n.idea/.idea.jQueryEvents.dir/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,6\1\61c35d646363e3ba7e7c375e8cca067d37461bd1
+”
+d.idea/.idea.jQueryEvents.dir/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,e\0\e080b3c09a14d25ed2a66bc3db654ca78659a178
+ž
+n.idea/.idea.jQueryEvents.dir/.idea/sonarlint/securityhotspotstore/b/5/b5df2b4c40ac30c88dc6b490caf3e303402a23ac,f\4\f430f23e0448e8a99f4a9b565f5eb63b839fabc8
+”
+d.idea/.idea.jQueryEvents.dir/.idea/sonarlint/issuestore/b/5/b5df2b4c40ac30c88dc6b490caf3e303402a23ac,6\e\6e65860deb7581af3456e1d229828474a1eb7f95
+p
+@.idea/.idea.jQueryEvents.dir/.idea/sonarlint/issuestore/index.pb,1\7\17e3caa5b1be2a2e8261743288139f074865e64d
+z
+J.idea/.idea.jQueryEvents.dir/.idea/sonarlint/securityhotspotstore/index.pb,f\7\f7aa569d7b66f3c46d4a98e5e08e90d79e86e24f
+ž
+n.idea/.idea.jQueryEvents.dir/.idea/sonarlint/securityhotspotstore/3/1/313d6864fa48b411d082f7692efd0c0892788fc4,b\a\bae1e513f0cec1749a25bf7c7c6688a9b5daa784
+”
+d.idea/.idea.jQueryEvents.dir/.idea/sonarlint/issuestore/3/1/313d6864fa48b411d082f7692efd0c0892788fc4,c\f\cfb5390f60a43aa70ea9f2152f0f93b7cf2dac6a
+ž
+n.idea/.idea.jQueryEvents.dir/.idea/sonarlint/securityhotspotstore/4/6/46e3381e9569c09e85a30b9e5a2af7525ee9fd78,7\9\79ff05a01528c3e0e70caca28c1df8f53dcff36c
